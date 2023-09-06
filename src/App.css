@@ -1,0 +1,53 @@
+body{
+  background-color: blue;
+}
+
+.main-con{
+  display: flex;
+  justify-content: center;
+}
+.small-con{
+  width: 300px;
+  height: 500px;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+h4,h1{
+  display: flex;
+  justify-content: center;
+padding-top: 15px;
+margin: 0px;
+}
+
+
+
+hr{
+  width: 280px;
+}
+
+p{
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  margin-left: 30px;
+}
+
+.close{
+opacity: 50%;
+}
+button{
+
+  background-color: rgb(14, 14, 243);
+  color: azure;
+  border: none;
+  border-radius: 50px;
+  padding: 15px;
+  width: 250px;
+}
+.button{
+  display: flex;
+  justify-content: center;
+
+}
